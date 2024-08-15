@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD/steps/664c3c9320fb35b1b66db819/challenge/refactor)
+- Live Site URL: [](https://verakissyou17.github.io/testimonials-grid-section-main/)
 
 ### Built with
 
